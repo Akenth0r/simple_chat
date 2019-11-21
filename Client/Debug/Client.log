@@ -1,0 +1,5 @@
+﻿  Client.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Waldemar\source\repos\Server\Client\Client.cpp(36,7): warning C4101: servBuf: неиспользованная локальная переменная
+  Client.vcxproj -> C:\Users\Waldemar\source\repos\Server\Debug\Client.exe

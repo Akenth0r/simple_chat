@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\Waldemar\source\repos\Server\Server\Server.cpp(54): warning C4715: Server::start: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\Waldemar\source\repos\Server\Debug\Server.exe
